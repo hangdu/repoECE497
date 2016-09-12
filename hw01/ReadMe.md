@@ -10,3 +10,9 @@ Step2: input up/down/left/right to move the pen
        input clear to clear the screen
 
 
+==========
+Comments from Prof. Yoder
+
+Seems to work fine.
+
+Grade:  10/10
