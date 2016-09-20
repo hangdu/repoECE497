@@ -22,3 +22,9 @@ The environment temperature is T.
 The highest temp is set to be T+2
 The lowest temp is set to be T-1.
 
+==========
+Comments from Prof. Mark A. Yoder
+Code looks good, but could use some documentation.
+Thanks for your work on the eQEP.  I hope you can get something to work.
+
+Grade:  10/10
