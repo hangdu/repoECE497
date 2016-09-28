@@ -8,6 +8,7 @@ Error: Cannot find module 'readline-sync'
 Need install instructions.
 
 Grade:  2/10   (so far)
+Grade:  10/10   (final)
 
 README
 1.You need to install some modules
