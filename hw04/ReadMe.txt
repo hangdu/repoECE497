@@ -19,3 +19,9 @@ In gpioThrubuiltinled.c,I choose P9_12(GPIO1_28) to connect the button and the b
 
 Part3:Web-based control
 Please check web-based_control.pdf
+
+==========
+Prof. Yoder's comments
+Looks good and complete.
+
+Grade:  10/10
