@@ -29,7 +29,7 @@ var status = -1;
 function printStatus(x){
     console.log('x.value='+x.value);
     if(x.value == 1){
-        timer = setInterval(command,1000);
+        timer = setInterval(command,100);
      }
 }
 
@@ -100,7 +100,7 @@ function getarrayandfindmin(){
     console.log('min voltage'+min_voltage);
     console.log('min voltage corresponding index'+min_index);
     mode = 1;
-    timer = setInterval(command,1000);        
+    timer = setInterval(command,100);        
     
 }
 
@@ -191,5 +191,5 @@ function track(){
 
 function realtrack(){
     count = -1;
-    setInterval(track,1000);
+    setInterval(track,100);
 }
