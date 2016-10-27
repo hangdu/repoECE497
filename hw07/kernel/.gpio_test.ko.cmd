@@ -1,0 +1,1 @@
+cmd_/root/github/exploringBB/extras/kernel/gpio_test/gpio_test.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/github/exploringBB/extras/kernel/gpio_test/gpio_test.ko /root/github/exploringBB/extras/kernel/gpio_test/gpio_test.o /root/github/exploringBB/extras/kernel/gpio_test/gpio_test.mod.o
