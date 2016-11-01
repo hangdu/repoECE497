@@ -16,10 +16,10 @@ make some change to gpio_test.c:
 insmod gpio_test.ko
 
 
-
 PRU:
 make some change to the file of main_pru0.c to get it work
 first run setup.sh
 then make;make install
 
+As for the GPIO speed compare,please check the GPIO speed compare pdf. Snapshots are attached in the pdf.
 
