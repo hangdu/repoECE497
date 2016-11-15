@@ -23,3 +23,8 @@ then make;make install
 
 As for the GPIO speed compare,please check the GPIO speed compare pdf. Snapshots are attached in the pdf.
 
+==========
+Comments from Prof. Yoder
+Looks good, but min and max time weren't reported.
+
+Grade:  9/10
